@@ -10,4 +10,5 @@ echo phpinfo();
 echo '123';
 echo '456';
 echo '111';
+echo '修改4';
 ?>
