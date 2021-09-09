@@ -10,5 +10,5 @@ echo phpinfo();
 echo '123';
 echo '456';
 echo '111';
-echo 'ä¿®æ”¹4';
+echo 'ÐÞ¸Ä4';
 ?>
