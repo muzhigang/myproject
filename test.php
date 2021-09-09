@@ -6,5 +6,4 @@
  * @Last Modified time: 2021-09-01 15:34:02
  */
 echo '1';
-echo '修改1';
-echo '修改2';
+echo '�޸�1';
